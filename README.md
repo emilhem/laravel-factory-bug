@@ -6,6 +6,7 @@ This repo is used to determine whether the factory error is indeed a bug.
 To test it:
 1. Clone repo
 2. Run `composer install`
+3. Configure a `.env` file with Postgresql
 3. Run `vendor/bin/phpunit`
 4. Watch explosions (or turn away, like they do in the movies)
 
