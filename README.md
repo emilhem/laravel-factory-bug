@@ -10,7 +10,7 @@ To test it:
 3. Run `vendor/bin/phpunit`
 4. Watch explosions (or turn away, like they do in the movies)
 
-##License
+## License
 The Unlicense
 
 A lot of code is boilerplate from running `laravel new`
